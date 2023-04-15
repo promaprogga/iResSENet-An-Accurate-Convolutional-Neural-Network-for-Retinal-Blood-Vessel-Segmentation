@@ -12,5 +12,5 @@ Download the Retinal datasets and their masks: DRIVE ([Link](https://drive.grand
 
 ### Additional information
 
-If you have any queries, please reach out to me at phprogga@gmail.com.
+If you have any queries, please reach out to me.
 
