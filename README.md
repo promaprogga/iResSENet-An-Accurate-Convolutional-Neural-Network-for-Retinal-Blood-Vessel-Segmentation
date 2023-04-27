@@ -24,7 +24,7 @@ Download the Retinal datasets and their masks: DRIVE ([Link](https://drive.grand
 For augmenation, you can check [DRIVE.ipynb](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation/blob/main/DRIVE.ipynb).
 ### 2. Model and Evaluation
 iResSENet, a novel deep learning-based architecture based on U-Net architecture. The proposed method enhances U-Net in three aspects. It replaces the encoder blocks with residual connections in addition to 1×1 convolutional layers and channel-based attention. 
-Architecture:
+
 <div style="text-align:center">
     <img src="model/model.png" width="80%" />
 </div>
