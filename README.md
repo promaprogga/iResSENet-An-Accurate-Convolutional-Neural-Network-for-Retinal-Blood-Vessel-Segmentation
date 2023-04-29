@@ -1,7 +1,7 @@
 # iResSENet
 
 This repository contains the original implementation of "iResSENet: An Accurate Convolutional Neural Network for Retinal Blood Vessel Segmentation".
-- Email: phprogga@gmail.com
+- Email: promaprogga16@gmail.com
 
 
 
