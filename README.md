@@ -21,7 +21,6 @@ We share this code only for research use. If you find any problem or inappropria
 ### 1. Data Preparation
 Download the Retinal datasets and their masks: DRIVE ([Link](https://drive.grand-challenge.org/)), CHASE_DB1 ([Link](https://blogs.kingston.ac.uk/retinal/chasedb1/)), HRF ([Link](https://www5.cs.fau.de/research/data/fundus-images/)) and STARE ([Link](https://cecas.clemson.edu/~ahoover/stare/)). 
 
-For augmenation, you can check [DRIVE.ipynb](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation/blob/main/DRIVE.ipynb).
 ### 2. Model and Evaluation
 iResSENet, a novel deep learning-based architecture based on U-Net architecture. The proposed method enhances U-Net in three aspects. It replaces the encoder blocks with residual connections in addition to 1×1 convolutional layers and channel-based attention. 
 
@@ -30,7 +29,7 @@ iResSENet, a novel deep learning-based architecture based on U-Net architecture.
 </div>
 
 
-A demo can be found in [here](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation/blob/main/DRIVE.ipynb) (tensorflow)
+Model code available in [here](https://github.com/promaprogga/iResSENet-An-Accurate-Convolutional-Neural-Network-for-Retinal-Blood-Vessel-Segmentation/blob/main/model/iResSENet.ipynb) (tensorflow)
 
 
 ## 🔗 Citation Request
